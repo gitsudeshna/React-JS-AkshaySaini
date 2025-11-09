@@ -35,3 +35,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+.filter {
+  padding: 10px 0;
+}
+.login-btn {
+  width: 50px;
+}
